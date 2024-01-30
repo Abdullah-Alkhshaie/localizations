@@ -14,7 +14,8 @@ i18n
       escapeValue: false,
     },
     backend: {
-      loadPath: "/locales/{{lng}}/translations.json",
+      loadPath:
+        "https://abdullah-alkhshaie.github.io/localizations/locales/{{lng}}/translations.json",
     },
   });
 
